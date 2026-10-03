@@ -95,7 +95,7 @@
 현재 코스의 이동 거리와 도보 시간을 확인할 수 있습니다.
 
 <img width="431" height="161" alt="스크린샷 2026-09-19 오후 8 05 15" src="https://github.com/user-attachments/assets/026f9bc1-336c-4e38-a8b7-fd238e92d26f" /> <br />
-　　　　　　　　　　　　　　↓
+　　　　　　　　　　　　　　　　　↓
 <br />
 <img width="431" height="161" alt="스크린샷 2026-09-19 오후 8 05 28" src="https://github.com/user-attachments/assets/ff543090-1a77-41cc-8269-b9c60f8228be" />
 
