@@ -14,7 +14,6 @@
 
 각 장소는 여러 장의 사진을 제공하며, 원하는 사진을 직접 골라 대표 이미지로 사용할 수 있습니다.
 <img width="1511" height="856" alt="스크린샷 2026-09-19 오후 7 16 11" src="https://github.com/user-attachments/assets/367d2043-304f-442c-a619-037085269657" />
-<img width="1509" height="856" alt="스크린샷 2026-09-19 오후 7 16 39" src="https://github.com/user-attachments/assets/6a84aed2-5385-4c84-88da-32e08b50e6e6" />
 
 <br /><br />
 
@@ -25,7 +24,6 @@
 사진을 업로드한 뒤 합성 조건을 확인하고, 원하는 경우 다시 생성할 수 있습니다.
 <img width="1512" height="856" alt="스크린샷 2026-09-19 오후 7 17 54" src="https://github.com/user-attachments/assets/1514e57b-a5c3-4e2e-9713-cba061996239" />
 
-<br />
 
 > AI가 생성한 이미지이므로 실제 모습과 다를 수 있으며, 인물의 표정이나 손·배경이 자연스럽지 않을 수 있습니다.
 
