@@ -13,8 +13,8 @@
 강릉의 관광지 사진을 확인하고, 가보고 싶은 장소를 최대 3곳까지 선택할 수 있습니다.
 
 각 장소는 여러 장의 사진을 제공하며, 원하는 사진을 직접 골라 대표 이미지로 사용할 수 있습니다.
-
-<img width="2048" height="1161" alt="장소 선택 화면" src="https://github.com/user-attachments/assets/6376dc44-2833-4715-b60a-d666863d448b" />
+<img width="1511" height="856" alt="스크린샷 2026-09-19 오후 7 16 11" src="https://github.com/user-attachments/assets/367d2043-304f-442c-a619-037085269657" />
+<img width="1509" height="856" alt="스크린샷 2026-09-19 오후 7 16 39" src="https://github.com/user-attachments/assets/6a84aed2-5385-4c84-88da-32e08b50e6e6" />
 
 <br /><br />
 
@@ -23,8 +23,7 @@
 선택한 강릉 관광지 배경과 내 사진을 활용해 AI 여행 사진을 생성합니다.
 
 사진을 업로드한 뒤 합성 조건을 확인하고, 원하는 경우 다시 생성할 수 있습니다.
-
-<img width="2048" height="1159" alt="사진 합성 화면" src="https://github.com/user-attachments/assets/5cd90dbf-8b7d-49fb-a9b1-c185d5ca42b1" />
+<img width="1512" height="856" alt="스크린샷 2026-09-19 오후 7 17 54" src="https://github.com/user-attachments/assets/1514e57b-a5c3-4e2e-9713-cba061996239" />
 
 <br />
 
@@ -38,7 +37,7 @@
 
 마음에 드는 결과라면 나만의 강릉 코스를 만들어 여행 계획으로 이어갈 수 있습니다.
 
-<img width="2048" height="1151" alt="합성 결과 화면" src="https://github.com/user-attachments/assets/a87b1671-77c6-4b1b-9f46-49b32b09250f" />
+<img width="1512" height="857" alt="스크린샷 2026-09-19 오후 7 18 21" src="https://github.com/user-attachments/assets/2e8e65db-7bb8-4035-968a-b6189f6923e1" />
 
 <br /><br />
 
@@ -55,7 +54,8 @@
 - 친구
 - 혼자 여행
 
-<img width="776" height="731" alt="여행 취향 선택 화면" src="https://github.com/user-attachments/assets/4f6b6880-6289-438b-b18d-29b46302e385" />
+<img width="776" height="731" alt="스크린샷 2026-09-21 오전 2 44 56" src="https://github.com/user-attachments/assets/785ceb21-de13-4e0f-b25b-c6d556885f2a" />
+
 
 <br /><br />
 
@@ -65,7 +65,8 @@
 
 지도에서 장소 위치와 이동 경로를 확인하고, 코스 순서를 직접 변경할 수 있습니다.
 
-<img width="2048" height="1148" alt="코스 결과 화면" src="https://github.com/user-attachments/assets/debc7f7c-62e9-4d65-ac71-2319b29ea65f" />
+<img width="1509" height="846" alt="스크린샷 2026-09-19 오후 7 57 51" src="https://github.com/user-attachments/assets/90bf4ed9-121c-4cb3-84ef-13867d6adda7" />
+
 
 <br /><br />
 
@@ -78,7 +79,8 @@
 
 선택한 관광지 주변의 추천 장소를 확인하거나, 강릉에 있는 장소를 직접 검색할 수 있습니다.
 
-<img width="2048" height="1146" alt="장소 추가 화면" src="https://github.com/user-attachments/assets/48761ea8-9df2-4438-a5fa-4f1efd20f5aa" />
+<img width="1512" height="846" alt="스크린샷 2026-09-19 오후 7 58 30" src="https://github.com/user-attachments/assets/3ce842dc-7f55-4e87-9aa5-0db56fab570e" />
+
 
 <br /><br />
 
@@ -94,7 +96,10 @@
 
 현재 코스의 이동 거리와 도보 시간을 확인할 수 있습니다.
 
-<img width="539" height="215" alt="경로 최적화 기능" src="https://github.com/user-attachments/assets/e6b8981b-e3dd-4edc-a151-193ae6badff7" />
+<img width="431" height="161" alt="스크린샷 2026-09-19 오후 8 05 15" src="https://github.com/user-attachments/assets/026f9bc1-336c-4e38-a8b7-fd238e92d26f" /> <br />
+　　　　　　　　　　　　　　↓
+<br />
+<img width="431" height="161" alt="스크린샷 2026-09-19 오후 8 05 28" src="https://github.com/user-attachments/assets/ff543090-1a77-41cc-8269-b9c60f8228be" />
 
 경로 최적화 기능을 이용하면 장소 방문 순서를 조정해 더 효율적인 코스를 만들 수 있습니다.
 
@@ -105,7 +110,7 @@
       <img
         width="360"
         alt="경로 최적화 전"
-        src="https://github.com/user-attachments/assets/d4b32350-d81e-41c6-9c6e-8d6dd8b77ae3"
+        src="https://github.com/user-attachments/assets/bd96834d-b10b-4a5a-b0db-65e46d9b5b4b"
       />
     </td>
     <td align="center">
@@ -113,7 +118,7 @@
       <img
         width="360"
         alt="경로 최적화 후"
-        src="https://github.com/user-attachments/assets/cfb6ab34-6495-4882-a1f1-e01b2a978020"
+        src="https://github.com/user-attachments/assets/7da50415-4fc9-4655-8c62-c3c5f4a92621"
       />
     </td>
   </tr>
@@ -125,7 +130,8 @@
 
 추가한 카페나 음식점, 문화시설의 위치를 확인하고 카카오맵의 상세 정보와 리뷰를 확인할 수 있습니다.
 
-<img width="2048" height="1145" alt="장소 상세 정보" src="https://github.com/user-attachments/assets/e2ee7121-0e52-4abe-98b1-951efbf9410d" />
+<img width="1512" height="845" alt="스크린샷 2026-09-19 오후 8 00 16" src="https://github.com/user-attachments/assets/54bd74ce-87df-4e22-b7db-103283a8c4e7" />
+
 
 <br /><br />
 
@@ -141,5 +147,5 @@
 - 전체 이동 거리
 - 예상 소요 시간
 - 여행 취향
+<img width="1098" height="612" alt="스크린샷 2026-09-19 오후 8 06 25" src="https://github.com/user-attachments/assets/9d2e041b-4bd0-4abf-a8d8-7f8e8ad6e73d" />
 
-<img width="2048" height="1142" alt="코스 이미지 저장" src="https://github.com/user-attachments/assets/cf5df806-d2aa-43f2-b625-ff916082db54" />
